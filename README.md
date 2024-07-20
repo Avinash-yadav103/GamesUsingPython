@@ -18,6 +18,20 @@ Welcome to the Python Games Collection! This repository contains small Python ga
 
 Player 1, enter your move (0-8):
 
+2. Snake Game
+A classic arcade game where the player maneuvers a snake to collect food. The snake grows longer with each piece of food collected. The game ends if the snake collides with the screen borders or itself.
+
+Welcome to Snake Game!
+
+How to Play:
+Use the arrow keys to move the snake.
+Collect the green food to grow longer.
+Avoid running into the walls or the snake's own body.
+Controls:
+
+Arrow Keys: Move the snake in the respective direction (Up, Down, Left, Right).
+Example of the game screen:
+
 
 ## Getting Started
 
