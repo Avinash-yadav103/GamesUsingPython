@@ -30,8 +30,6 @@ Avoid running into the walls or the snake's own body.
 Controls:
 
 Arrow Keys: Move the snake in the respective direction (Up, Down, Left, Right).
-Example of the game screen:
-
 
 ## Getting Started
 
